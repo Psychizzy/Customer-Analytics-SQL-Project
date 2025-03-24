@@ -132,6 +132,12 @@ All SQL scripts for the analysis are available in this repository:
 📜 [`08_CLV_Estimation.sql`](./08_CLV_Estimation.sql)  
 
 Click on any script above to **view the full SQL queries in GitHub**.
+---
+
+## 📌 Database Schema (ER Diagram)  
+This diagram represents the structure of the `fooddb` table used for customer analytics.  
+
+![ER Diagram](./er-diagram.png)
 
 ---
 
