@@ -4,8 +4,7 @@
 This project analyzes **customer behavior, churn prediction, marketing effectiveness, and sales performance** using SQL.  
 The goal is to **help businesses improve customer retention, optimize marketing campaigns, and increase revenue** by understanding customer purchase behavior.  
 
-**🛠️ Skills Used:** SQL (CTEs, Joins, Window Functions, Aggregations)  
-**📂 Dataset:** Customer purchase dataset from Kaggle  
+**🛠️ Skills Used:** SQL (CTEs, Joins, Window Functions, Aggregations)    
 
 ---
 
